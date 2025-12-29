@@ -1,0 +1,12 @@
+{
+    "home":"خانه",
+    "library":"کتابخانه",
+    "books":"کتاب ها",
+    "login":"ورود",
+    "logout":"خروج",
+    "register":"ثبت نام",
+    "profile":"پروفایل",
+    "search":"جستجو",
+    "searchResults":"نتایج جستجو",
+    "searchResultsFor":"نتایج جستجو برای"
+}
